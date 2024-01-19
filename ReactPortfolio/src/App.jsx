@@ -17,6 +17,7 @@ function App() {
       
       <Header />
       <HeroSecction/>
+
       <Routes>
         <Route path="/" exact element={<HomePage/>} />
         {/* <Route path="/projects" element={<ProjectsPage/>} />

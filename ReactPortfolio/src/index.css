@@ -6,7 +6,7 @@
   --work_area_color: #FFE569;
   --Navbar_tab_color: #00ebff;
 }
-
+#root{max-width: 100%;padding: 0px;}
 html {
   scroll-behavior: smooth;
 }
