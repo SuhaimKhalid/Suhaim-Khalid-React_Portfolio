@@ -14,7 +14,7 @@ const HeroSecction = () => {
             <div className="col-sm-12 col-md-6 col-lg-6 hero_description">
             <h2> I'm <span>Suhaim Khalid</span></h2>
             <h3>Front End Developer</h3>
-            <p><a className="resume-btn" href="Assets/images/Suhaim Khalid Resume.pdf">Resume</a></p>
+            <p><a className="resume-btn" href="Images/Suhaim Khalid Resume.pdf">Resume</a></p>
             </div>
             </div>
         </div>

@@ -15,11 +15,11 @@ const Header = () => {
   {/* <!-- Navbar collapse list --> */}
   <div className="collapse navbar-collapse col-9" id="navbarSupportedContent">
     <ul className="navbar-nav ms-auto ">
-      <li className="nav-item"><Link className="nav-link" to="#about">About Me</Link></li>
-      <li className="nav-item"><Link className="nav-link" to="#experience">Experience</Link></li>
-      <li className="nav-item"><Link className="nav-link" to="#work">Work</Link></li>
-      <li className="nav-item"><Link className="nav-link" to="#skills">Skills</Link></li>
-      <li className="nav-item"><Link className="nav-link" to="#contact_me">Contact Me</Link></li>
+      <li className="nav-item"><a className="nav-link" href="#about">About Me</a></li>
+      <li className="nav-item"><a className="nav-link" href="#experience">Experience</a></li>
+      <li className="nav-item"><a className="nav-link" href="#work">Work</a></li>
+      <li className="nav-item"><a className="nav-link" href="#skills">Skills</a></li>
+      <li className="nav-item"><a className="nav-link" href="#contact_me">Contact Me</a></li>
   </ul>
   </div>
   </div>

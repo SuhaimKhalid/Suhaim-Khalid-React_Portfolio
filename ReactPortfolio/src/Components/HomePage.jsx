@@ -1,11 +1,20 @@
 import React from 'react';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+
+
+import Header from './Header'
+import HeroSecction from './HeroSection';
+import About from './About';
 
 const HomePage = () => {
   return (
-    <div>
-      <h1>Welcome to My Portfolio</h1>
-      <p>This is the home page.</p>
-    </div>
+
+    <>
+        <Header />
+        <HeroSecction/>
+        <About/>
+    </>
+    
   );
 }
 
