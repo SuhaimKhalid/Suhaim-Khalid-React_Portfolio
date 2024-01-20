@@ -808,6 +808,13 @@ footer .upper_Footer {
 /* Footer Section 768  End*/
 }
 
+.contact_form label{color: white; text-align: left;padding: 10px;}
+.contact_form button{margin-top:20px;
+  padding: 5px 20px; border-radius:10px;
+  background-color: #FFC86B;
+  font-weight: 600;
+  color: black;outline: none;margin-bottom: 40px;}
+
 
 
 
